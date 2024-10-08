@@ -1,0 +1,16 @@
+C:\Users\Oskar\source\repos\PD1\PD1\bin\Debug\net8.0-windows\PD1.exe
+C:\Users\Oskar\source\repos\PD1\PD1\bin\Debug\net8.0-windows\PD1.deps.json
+C:\Users\Oskar\source\repos\PD1\PD1\bin\Debug\net8.0-windows\PD1.runtimeconfig.json
+C:\Users\Oskar\source\repos\PD1\PD1\bin\Debug\net8.0-windows\PD1.dll
+C:\Users\Oskar\source\repos\PD1\PD1\bin\Debug\net8.0-windows\PD1.pdb
+C:\Users\Oskar\source\repos\PD1\PD1\obj\Debug\net8.0-windows\PD1.Form1.resources
+C:\Users\Oskar\source\repos\PD1\PD1\obj\Debug\net8.0-windows\PD1.csproj.GenerateResource.cache
+C:\Users\Oskar\source\repos\PD1\PD1\obj\Debug\net8.0-windows\PD1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oskar\source\repos\PD1\PD1\obj\Debug\net8.0-windows\PD1.AssemblyInfoInputs.cache
+C:\Users\Oskar\source\repos\PD1\PD1\obj\Debug\net8.0-windows\PD1.AssemblyInfo.cs
+C:\Users\Oskar\source\repos\PD1\PD1\obj\Debug\net8.0-windows\PD1.csproj.CoreCompileInputs.cache
+C:\Users\Oskar\source\repos\PD1\PD1\obj\Debug\net8.0-windows\PD1.dll
+C:\Users\Oskar\source\repos\PD1\PD1\obj\Debug\net8.0-windows\refint\PD1.dll
+C:\Users\Oskar\source\repos\PD1\PD1\obj\Debug\net8.0-windows\PD1.pdb
+C:\Users\Oskar\source\repos\PD1\PD1\obj\Debug\net8.0-windows\PD1.genruntimeconfig.cache
+C:\Users\Oskar\source\repos\PD1\PD1\obj\Debug\net8.0-windows\ref\PD1.dll
