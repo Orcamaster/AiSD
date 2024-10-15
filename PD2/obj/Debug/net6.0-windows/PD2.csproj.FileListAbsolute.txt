@@ -1,0 +1,16 @@
+C:\Users\Oskar\source\repos\PD2\obj\Debug\net6.0-windows\PD2.Form1.resources
+C:\Users\Oskar\source\repos\PD2\obj\Debug\net6.0-windows\PD2.csproj.GenerateResource.cache
+C:\Users\Oskar\source\repos\PD2\obj\Debug\net6.0-windows\PD2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oskar\source\repos\PD2\obj\Debug\net6.0-windows\PD2.AssemblyInfoInputs.cache
+C:\Users\Oskar\source\repos\PD2\obj\Debug\net6.0-windows\PD2.AssemblyInfo.cs
+C:\Users\Oskar\source\repos\PD2\obj\Debug\net6.0-windows\PD2.csproj.CoreCompileInputs.cache
+C:\Users\Oskar\source\repos\PD2\bin\Debug\net6.0-windows\PD2.exe
+C:\Users\Oskar\source\repos\PD2\bin\Debug\net6.0-windows\PD2.deps.json
+C:\Users\Oskar\source\repos\PD2\bin\Debug\net6.0-windows\PD2.runtimeconfig.json
+C:\Users\Oskar\source\repos\PD2\bin\Debug\net6.0-windows\PD2.dll
+C:\Users\Oskar\source\repos\PD2\bin\Debug\net6.0-windows\PD2.pdb
+C:\Users\Oskar\source\repos\PD2\obj\Debug\net6.0-windows\PD2.dll
+C:\Users\Oskar\source\repos\PD2\obj\Debug\net6.0-windows\refint\PD2.dll
+C:\Users\Oskar\source\repos\PD2\obj\Debug\net6.0-windows\PD2.pdb
+C:\Users\Oskar\source\repos\PD2\obj\Debug\net6.0-windows\PD2.genruntimeconfig.cache
+C:\Users\Oskar\source\repos\PD2\obj\Debug\net6.0-windows\ref\PD2.dll
