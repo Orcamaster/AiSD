@@ -1,9 +1,12 @@
 using System.Collections.Concurrent;
+using System.Diagnostics;
 
 namespace PD2
 {
     public partial class Form1 : Form
     {
+        private int[] numbers;
+
         public Form1()
         {
             InitializeComponent();
@@ -11,50 +14,82 @@ namespace PD2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int[] numbers = GetInput(textBox1.Text);
-
-            QuickSort(numbers, 0, numbers.Length - 1);
-            string sorted = string.Join(", ", numbers);
-            label1.Text = $"{sorted}";
+            SortTime(() =>
+            {
+                QuickSort(numbers, 0, numbers.Length - 1);
+            });
         }
+
         private void button2_Click(object sender, EventArgs e)
         {
-            int[] numbers = GetInput(textBox1.Text);
-
-            MergeSort(numbers, 0, numbers.Length - 1);
-            string sorted = string.Join(", ", numbers);
-            label1.Text = $"{sorted}";
+            SortTime(() =>
+            {
+                MergeSort(numbers, 0, numbers.Length - 1);
+            });
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            int[] numbers = GetInput(textBox1.Text);
+            SortTime(() =>
+            {
+                InsertSort(numbers);
+            });
 
-            InsertSort(numbers);
-            string sorted = string.Join(", ", numbers);
-            label1.Text = $"{sorted}";
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            int[] numbers = GetInput(textBox1.Text);
-
-            numbers = CountingSort(numbers);
-            string sorted = string.Join(", ", numbers);
-            label1.Text = $"{sorted}";
+            SortTime(() =>
+            {
+                CountingSort(numbers);
+            });
         }
 
-        private int[] GetInput(string input)
+        private void button5_Click(object sender, EventArgs e)
         {
-            string[] stringList = input.Split(' ');
-            int[] numbers = new int[stringList.Count()];
+            numbers = textBox1.Text.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
+            ShowNums();
+        }
 
-            for (int i = 0; i < stringList.Count(); i++)
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Random random = new Random();
+            int count = (int)numericUpDown1.Value;
+            numbers = new int[count];
+
+            for (int i = 0; i < count; i++)
             {
-                numbers[i] = Int32.Parse(stringList[i]);
+                numbers[i] = random.Next(1, 101);
             }
 
-            return numbers;
+            ShowNums();
+        }
+
+        private void ShowNums()
+        {
+            if (numbers == null || numbers.Length == 0)
+            {
+                label1.Text = "...";
+                return;
+            }
+
+            string result = string.Join(" ", numbers.Take(15));
+            if (numbers.Length > 15)
+            {
+                result += " ...";
+            }
+
+            label1.Text = result;
+        }
+
+        private void SortTime(Action sortAlgorithm)
+        {
+            Stopwatch stopwatch = new Stopwatch();
+            stopwatch.Start();
+            sortAlgorithm();
+            stopwatch.Stop();
+            ShowNums();
+            label2.Text = $"Czas sortowania: {stopwatch.Elapsed.TotalMilliseconds} ms";
         }
 
         private void QuickSort(int[] list, int low, int high)
@@ -185,5 +220,7 @@ namespace PD2
 
             return result;
         }
+
+        
     }
 }

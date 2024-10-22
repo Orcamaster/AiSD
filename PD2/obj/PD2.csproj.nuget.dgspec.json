@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Oskar\\source\\repos\\PD2\\PD2.csproj": {}
+    "D:\\Praca domowa\\PD2\\PD2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Oskar\\source\\repos\\PD2\\PD2.csproj": {
+    "D:\\Praca domowa\\PD2\\PD2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Oskar\\source\\repos\\PD2\\PD2.csproj",
+        "projectUniqueName": "D:\\Praca domowa\\PD2\\PD2.csproj",
         "projectName": "PD2",
-        "projectPath": "C:\\Users\\Oskar\\source\\repos\\PD2\\PD2.csproj",
+        "projectPath": "D:\\Praca domowa\\PD2\\PD2.csproj",
         "packagesPath": "C:\\Users\\Oskar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Oskar\\source\\repos\\PD2\\obj\\",
+        "outputPath": "D:\\Praca domowa\\PD2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
