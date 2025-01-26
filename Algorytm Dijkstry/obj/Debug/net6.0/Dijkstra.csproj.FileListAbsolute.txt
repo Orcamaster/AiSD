@@ -1,0 +1,14 @@
+C:\Users\Oskar\source\repos\Dijkstra\bin\Debug\net6.0\Dijkstra.exe
+C:\Users\Oskar\source\repos\Dijkstra\bin\Debug\net6.0\Dijkstra.deps.json
+C:\Users\Oskar\source\repos\Dijkstra\bin\Debug\net6.0\Dijkstra.runtimeconfig.json
+C:\Users\Oskar\source\repos\Dijkstra\bin\Debug\net6.0\Dijkstra.dll
+C:\Users\Oskar\source\repos\Dijkstra\bin\Debug\net6.0\Dijkstra.pdb
+C:\Users\Oskar\source\repos\Dijkstra\obj\Debug\net6.0\Dijkstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oskar\source\repos\Dijkstra\obj\Debug\net6.0\Dijkstra.AssemblyInfoInputs.cache
+C:\Users\Oskar\source\repos\Dijkstra\obj\Debug\net6.0\Dijkstra.AssemblyInfo.cs
+C:\Users\Oskar\source\repos\Dijkstra\obj\Debug\net6.0\Dijkstra.csproj.CoreCompileInputs.cache
+C:\Users\Oskar\source\repos\Dijkstra\obj\Debug\net6.0\Dijkstra.dll
+C:\Users\Oskar\source\repos\Dijkstra\obj\Debug\net6.0\refint\Dijkstra.dll
+C:\Users\Oskar\source\repos\Dijkstra\obj\Debug\net6.0\Dijkstra.pdb
+C:\Users\Oskar\source\repos\Dijkstra\obj\Debug\net6.0\Dijkstra.genruntimeconfig.cache
+C:\Users\Oskar\source\repos\Dijkstra\obj\Debug\net6.0\ref\Dijkstra.dll
