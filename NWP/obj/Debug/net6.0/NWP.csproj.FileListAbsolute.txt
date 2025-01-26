@@ -1,0 +1,14 @@
+C:\Users\Oskar\source\repos\NWP\bin\Debug\net6.0\NWP.exe
+C:\Users\Oskar\source\repos\NWP\bin\Debug\net6.0\NWP.deps.json
+C:\Users\Oskar\source\repos\NWP\bin\Debug\net6.0\NWP.runtimeconfig.json
+C:\Users\Oskar\source\repos\NWP\bin\Debug\net6.0\NWP.dll
+C:\Users\Oskar\source\repos\NWP\bin\Debug\net6.0\NWP.pdb
+C:\Users\Oskar\source\repos\NWP\obj\Debug\net6.0\NWP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oskar\source\repos\NWP\obj\Debug\net6.0\NWP.AssemblyInfoInputs.cache
+C:\Users\Oskar\source\repos\NWP\obj\Debug\net6.0\NWP.AssemblyInfo.cs
+C:\Users\Oskar\source\repos\NWP\obj\Debug\net6.0\NWP.csproj.CoreCompileInputs.cache
+C:\Users\Oskar\source\repos\NWP\obj\Debug\net6.0\NWP.dll
+C:\Users\Oskar\source\repos\NWP\obj\Debug\net6.0\refint\NWP.dll
+C:\Users\Oskar\source\repos\NWP\obj\Debug\net6.0\NWP.pdb
+C:\Users\Oskar\source\repos\NWP\obj\Debug\net6.0\NWP.genruntimeconfig.cache
+C:\Users\Oskar\source\repos\NWP\obj\Debug\net6.0\ref\NWP.dll
